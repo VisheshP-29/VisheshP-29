@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VisheshP-29
+- 👋 Hi, I’m Vishesh Prasad
 - 🌱 I’m currently learning Computer Engineering at the University of Illinois Urbana Champaign
 - 📫 You can reach me at vprasad3@illinois.edu
 
