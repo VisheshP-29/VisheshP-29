@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishesh Prasad
-- 🌱 I’m currently learning Computer Engineering at the University of Illinois Urbana-Champaign with minor in Statistics and Econometrics
+- 🌱 I’m currently learning Computer Engineering at the University of Illinois Urbana-Champaign with minors in Statistics and Econometrics
 - 📫 You can reach me at vprasad3@illinois.edu
 
 
